@@ -71,6 +71,10 @@ h2 {
     padding: 2rem 5rem;
 }
 
+#about-us p, #contact p {
+    font-size: 3rem;
+}
+
 #our-team {
     background: #001041;
     color: #F5F5F5;
@@ -116,6 +120,7 @@ h2 {
 }
 
 .review-card {
+    font-size: 3rem;
     margin: 1rem;
     padding: 1rem 5rem;
 }
