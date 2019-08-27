@@ -72,7 +72,7 @@ h2 {
 }
 
 #about-us p, #contact p {
-    font-size: 15rem;
+    font-size: 3rem;
 }
 
 #our-team {
@@ -141,6 +141,7 @@ h2 {
 
 .services-content {
     padding: 2rem 5rem;
+    max-height: 100%;
 }
 
 .services-content h2 {
