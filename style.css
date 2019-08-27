@@ -120,7 +120,7 @@ h2 {
 }
 
 .review-card {
-    font-size: 3rem;
+    font-size: 2rem;
     margin: 1rem;
     padding: 1rem 5rem;
 }
@@ -140,6 +140,7 @@ h2 {
 }
 
 .services-content {
+    font-size: 2rem;
     padding: 2rem 5rem;
     max-height: 100%;
 }
